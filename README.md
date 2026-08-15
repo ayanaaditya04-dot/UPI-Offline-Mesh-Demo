@@ -353,7 +353,7 @@ The three included tests:
 
 ## What's NOT real (and what would change for production)
 
-This is a teaching demo. To make it production-grade you'd swap these things:
+To make it production-grade i'd swap these things:
 
 | What's in the demo | What it would be in production |
 |---|---|
@@ -399,7 +399,3 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 **Tests fail intermittently** — The concurrency test is timing-sensitive. If it ever flakes, run it 3x; if it consistently fails on your hardware, file the actual failure output.
 
 ---
-
-## License
-
-Demo code, no license. Use it however you want for learning.
